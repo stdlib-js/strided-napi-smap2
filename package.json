@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-napi-smap2",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "C API for registering a Node-API module exporting a strided array interface for applying a binary callback to single-precision floating-point strided input arrays and assigning results to a single-precision floating-point strided output array.",
   "license": "Apache-2.0",
   "author": {
